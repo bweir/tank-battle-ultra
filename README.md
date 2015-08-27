@@ -1,2 +1,2 @@
 # tank-battle-ultra
-An old game I started working on in school.
+A barely functional game I started working on in college. Requires Allegro 4 to run.
